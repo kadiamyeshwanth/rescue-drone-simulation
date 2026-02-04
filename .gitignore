@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+*.uproject
+Binaries/
+Intermediate/
+Saved/
+.sln
+.vcxproj
+.vcxproj.user
+
+# Unreal Engine
+Colosseum/Binaries/
+Colosseum/Intermediate/
+Colosseum/Saved/
+Colosseum/.vs/
+Colosseum/DerivedDataCache/
+
+# YOLO models (large files)
+*.pt
+yolov8*
+runs/
+
+# Mission logs
+mission_log.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Misc
+.vscode/settings.json
+settings.json

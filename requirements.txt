@@ -1,0 +1,17 @@
+# Autonomous Search & Rescue Drone Simulation
+# Dependencies for the main autonomy script
+
+# AirSim Python API for drone control
+airsim>=1.7.0
+
+# YOLOv8 for computer vision and person detection
+ultralytics>=8.0.0
+
+# OpenCV for image processing and manipulation
+opencv-python>=4.7.0
+
+# NumPy for numerical computations
+numpy>=1.21.0
+
+# Matplotlib for visualization (optional, for plotting trajectories)
+matplotlib>=3.5.0
